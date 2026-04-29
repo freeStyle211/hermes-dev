@@ -1,0 +1,13 @@
+{
+  "name": "hermes-dev",
+  "version": "1.0.0",
+  "description": "Auto-fix powered dev repo",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "node --test src/**/*.test.js",
+    "start": "node src/index.js"
+  },
+  "keywords": [],
+  "author": "freeStyle211",
+  "license": "MIT"
+}
